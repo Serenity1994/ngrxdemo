@@ -1,3 +1,6 @@
+# copy from
+https://github.com/ngrx/platform/tree/master/example-app
+
 # CopyDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
